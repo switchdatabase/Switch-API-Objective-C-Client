@@ -1,4 +1,4 @@
-# SwaggerClient
+# Switch Database REST API Objective-C client
 
 Switch API is the primary endpoint of data sevices and Switch DB's platform. You can do adding, editing, deleting or listing data works to your database with query operations by using this low-level API based on HTTP.
 
@@ -108,13 +108,6 @@ Class | Method | HTTP request | Description
  - [SWGWhereItem](docs/SWGWhereItem.md)
 
 
-## Documentation For Authorization
+## Authors
 
- All endpoints do not require authorization.
-
-
-## Author
-
-
-
-
+* **[Mert Sarac](https://github.com/saracmert)** - *Initial work*
